@@ -62,7 +62,7 @@ THS has a spending / student of $638. Hence the bin for $630 - $644 would be imp
 School Summary (after Grade THS / Grade 9 was excluded)
     ![](Spending_after_changes.png?raw=true)
     
-#### Scores by school size
+#### Scores by school size (pending)
 
 School Summary (before Grade THS / Grade 9 was excluded)
     ![](school_summary_before.png?raw=true)
@@ -70,7 +70,7 @@ School Summary (before Grade THS / Grade 9 was excluded)
 School Summary (after Grade THS / Grade 9 was excluded)
     ![](school_summary_after.png?raw=true)
     
-#### Scores by school type
+#### Scores by school type  (pending)
 
 School Summary (before Grade THS / Grade 9 was excluded)
     ![](school_summary_before.png?raw=true)
@@ -78,4 +78,4 @@ School Summary (before Grade THS / Grade 9 was excluded)
 School Summary (after Grade THS / Grade 9 was excluded)
     ![](school_summary_after.png?raw=true)
 
-## Summary
+## Summary  (pending)
