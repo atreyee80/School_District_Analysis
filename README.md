@@ -47,5 +47,4 @@ As seen from the above pictures, excluding the numbers for Thomas High (Grade 9)
 
 
 
-
 ## Summary
