@@ -12,7 +12,7 @@ The purpose of this exercise is manifold, outlined as below:
 ### How is the district summary affected?
 
 1. Before
-
+   ![](School_District_Analysis/Before.png?raw=true)
 2. After 
  ![](School_District_Analysis/After.png?raw=true)
 
@@ -20,11 +20,14 @@ The purpose of this exercise is manifold, outlined as below:
 
 3. Before 
 4. After - 
+5. ![](School_District_Analysis/school_summary_after.png?raw=true)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 3. Before 
-4. After - 
+4.  ![](School_District_Analysis/before_replace_math_reading.png?raw=true)
+5. After - 
+6. ![](School_District_Analysis/replace_math_reading.png?raw=true)
 
 
 ### How does replacing the ninth-grade scores affect the following:
