@@ -55,7 +55,9 @@ Grade wise Summary
   
   
 
-#### Scores by school spending (pending)
+#### Scores by school spending (done)
+
+THS has a spending / student of $638. Hence the bin for $630 - $644 would be impacted due to the exclusion of Grade 9 students from THS. Since the all the 3 percentages (math passing, english passing & overall passing) have improved for THS after the change, the same percentages for Bin # $630 - $644 have also increased to 66.89%, 77.4% & 56.3% due to this change
     
 School Summary (after Grade THS / Grade 9 was excluded)
     ![](Spending_after_changes.png?raw=true)
