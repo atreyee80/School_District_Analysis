@@ -10,9 +10,28 @@ The purpose of this exercise is manifold, outlined as below:
 ## Results
 
 ### How is the district summary affected?
+
+1. Before
+
+2. After
+
 ### How is the school summary affected?
+
+3. Before 
+4. After - 
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+3. Before 
+4. After - 
+
+
 ### How does replacing the ninth-grade scores affect the following:
+
+3. Before 
+4. After - 
+
+
 #### Math and reading scores by grade
 #### Scores by school spending
 #### Scores by school size
