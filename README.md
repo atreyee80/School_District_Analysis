@@ -42,11 +42,17 @@ Due to the exclusion of the 9 grade students from the data analysis, the % passe
 
 ### How does replacing the ninth-grade scores affect the following:
 
-#### Math and reading scores by grade (pending)
+#### Math and reading scores by grade (done)
+
+Grade wise scores of each school will NOT be impacted by this change. However the following changes have been observed:
+
+1. The Grade wise score for THS for Grade 9 is not available anymore
+2. The Average Grade score for Grade 9 for the school district have improved due to the exclusion of THS / Grade 9
 
 Grade Summary (after Grade THS / Grade 9 was excluded)
-    ![](Grade_wise_scores.png?raw=true)
-    
+  ![](Grade_wise_scores.png?raw=true)
+  
+  
 
 #### Scores by school spending (pending)
     
