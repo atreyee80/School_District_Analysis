@@ -33,12 +33,9 @@ School Summary (after Grade THS / Grade 9 was excluded)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-School Summary (before Grade THS / Grade 9 was excluded)
-    ![](school_summary_before.png?raw=true)
-    
-    
-School Summary (after Grade THS / Grade 9 was excluded)
-    ![](school_summary_after.png?raw=true)
+Due to the exclusion of the 9 grade students from the data analysis, the % passed for Maths, English and Overall increased from 66.9% to 93.1% , 69.6% to 97%, 65% to 90% respectively. Due to the marked improvement in passing %, the relative performance of THS has improved by quite a few notches. When the schools were ranked, THS shot up from 8th position to second position as depicted in the chart below
+
+**PUT SCREENSHOT of top 5 schools after grade 9 was exluded to show THS is in second position**
 
 
 ### How does replacing the ninth-grade scores affect the following:
