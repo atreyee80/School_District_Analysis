@@ -42,12 +42,6 @@ Due to the exclusion of the 9 grade students from the data analysis, the % passe
 
 ### How does replacing the ninth-grade scores affect the following:
 
-School Summary (before Grade THS / Grade 9 was excluded)
-    ![](school_summary_before.png?raw=true)
-    
-School Summary (after Grade THS / Grade 9 was excluded)
-    ![](school_summary_after.png?raw=true)
-
 #### Math and reading scores by grade (pending)
 
 Grade Summary (after Grade THS / Grade 9 was excluded)
