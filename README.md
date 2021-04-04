@@ -22,7 +22,7 @@ As seen from the above pictures, excluding the numbers for Thomas High (Grade 9)
 
 3. Before 
 4. After - 
-5. ![](School_District_Analysis/school_summary_after.png?raw=true)
+5. ![](school_summary_before.png?raw=true)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
