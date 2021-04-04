@@ -22,6 +22,8 @@ As seen from the above pictures, excluding the numbers for Thomas High (Grade 9)
 
 ### How is the school summary affected?
 
+The metrics of all schools would remain unaffected due to the exclusion of THS / Grade 9. Only the metrics for THS would be impacted 
+
 School Summary (before Grade THS / Grade 9 was excluded)
     ![](school_summary_before.png?raw=true)
     
