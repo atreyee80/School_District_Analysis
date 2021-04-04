@@ -13,7 +13,8 @@ The purpose of this exercise is manifold, outlined as below:
 
 1. Before
 
-2. After
+2. After 
+ ![](After.png?raw=true)
 
 ### How is the school summary affected?
 
