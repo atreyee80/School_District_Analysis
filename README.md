@@ -16,6 +16,8 @@ The purpose of this exercise is manifold, outlined as below:
 2. After 
    ![](District_After_changes.png?raw=true)
 
+As seen from the above pictures, excluding the numbers for Thomas High (Grade 9) changes the overall passing percentage from 80% to 64.9% which is a decrease of 15 percentage points. The other metrics do not change in any impactful manner.
+
 ### How is the school summary affected?
 
 3. Before 
