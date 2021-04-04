@@ -11,40 +11,72 @@ The purpose of this exercise is manifold, outlined as below:
 
 ### How is the district summary affected?
 
-1. Before
+District Summary (before Grade THS / Grade 9 was excluded)
    ![](District_Before_changes.png?raw=true)
-2. After 
+   
+   
+District Summary (after Grade THS / Grade 9 was excluded)
    ![](District_After_changes.png?raw=true)
 
 As seen from the above pictures, excluding the numbers for Thomas High (Grade 9) changes the overall passing percentage from 80% to 64.9% which is a decrease of 15 percentage points. The other metrics do not change in any impactful manner.
 
 ### How is the school summary affected?
 
-3. Before 
-4. ![](school_summary_before.png?raw=true)
-5. After - 
-   ![](school_summary_after.png?raw=true)
+School Summary (before Grade THS / Grade 9 was excluded)
+    ![](school_summary_before.png?raw=true)
+    
+    
+School Summary (after Grade THS / Grade 9 was excluded)
+    ![](school_summary_after.png?raw=true)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-3. Before 
-4. 
-5.  
+School Summary (before Grade THS / Grade 9 was excluded)
+    ![](school_summary_before.png?raw=true)
+    
+    
+School Summary (after Grade THS / Grade 9 was excluded)
+    ![](school_summary_after.png?raw=true)
 
 
 ### How does replacing the ninth-grade scores affect the following:
 
-3. Before 
-4. ![](THS_performance_before.png?raw=true)
-5. After 
-6. ![](THS_performance_after.png?raw=true)
-
+School Summary (before Grade THS / Grade 9 was excluded)
+    ![](school_summary_before.png?raw=true)
+    
+School Summary (after Grade THS / Grade 9 was excluded)
+    ![](school_summary_after.png?raw=true)
 
 #### Math and reading scores by grade
+
+Grade Summary (before Grade THS / Grade 9 was excluded)
+    ![](grade_summary_before.png?raw=true)
+    
+Grade Summary (after Grade THS / Grade 9 was excluded)
+    ![](grade_summary_after.png?raw=true)
+
 #### Scores by school spending
+
+School Summary (before Grade THS / Grade 9 was excluded)
+    ![](school_summary_before.png?raw=true)
+    
+School Summary (after Grade THS / Grade 9 was excluded)
+    ![](school_summary_after.png?raw=true)
+    
 #### Scores by school size
+
+School Summary (before Grade THS / Grade 9 was excluded)
+    ![](school_summary_before.png?raw=true)
+    
+School Summary (after Grade THS / Grade 9 was excluded)
+    ![](school_summary_after.png?raw=true)
+    
 #### Scores by school type
 
-
+School Summary (before Grade THS / Grade 9 was excluded)
+    ![](school_summary_before.png?raw=true)
+    
+School Summary (after Grade THS / Grade 9 was excluded)
+    ![](school_summary_after.png?raw=true)
 
 ## Summary
