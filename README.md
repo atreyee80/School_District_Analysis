@@ -22,7 +22,7 @@ District Summary (after Grade THS / Grade 9 was excluded)
 
 
  
-### How is the school summary affected? (done) 
+### How is the school summary affected? (done)
 
 The metrics of all schools would remain unaffected due to the exclusion of THS / Grade 9. Only the metrics for THS would be impacted 
 
@@ -50,19 +50,14 @@ School Summary (after Grade THS / Grade 9 was excluded)
 
 #### Math and reading scores by grade (pending)
 
-Grade Summary (before Grade THS / Grade 9 was excluded)
-    ![](grade_summary_before.png?raw=true)
-    
 Grade Summary (after Grade THS / Grade 9 was excluded)
-    ![](grade_summary_after.png?raw=true)
+    ![](Grade_wise_scores.png?raw=true)
+    
 
-#### Scores by school spending
-
-School Summary (before Grade THS / Grade 9 was excluded)
-    ![](school_summary_before.png?raw=true)
+#### Scores by school spending (pending)
     
 School Summary (after Grade THS / Grade 9 was excluded)
-    ![](school_summary_after.png?raw=true)
+    ![](Spending_after_changes.png?raw=true)
     
 #### Scores by school size
 
