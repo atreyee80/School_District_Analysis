@@ -22,7 +22,7 @@ District Summary (after Grade THS / Grade 9 was excluded)
 
 
  
-### How is the school summary affected? (done)
+### How is the school summary affected? (done) 
 
 The metrics of all schools would remain unaffected due to the exclusion of THS / Grade 9. Only the metrics for THS would be impacted 
 
