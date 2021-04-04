@@ -49,7 +49,8 @@ Grade wise scores of each school will NOT be impacted by this change. However th
 1. The Grade wise score for THS for Grade 9 is not available anymore
 2. The Average Grade score for Grade 9 for the school district have improved due to the exclusion of THS / Grade 9
 
-Grade Summary (after Grade THS / Grade 9 was excluded)
+Grade wise Summary 
+
   ![](Grade_wise_scores.png?raw=true)
   
   
