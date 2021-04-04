@@ -12,9 +12,9 @@ The purpose of this exercise is manifold, outlined as below:
 ### How is the district summary affected?
 
 1. Before
-   ![](Before.png?raw=true)
+   ![](District_Before_changes.png?raw=true)
 2. After 
- ![](School_District_Analysis/After.png?raw=true)
+   ![](District_After_changes.png?raw=true)
 
 ### How is the school summary affected?
 
