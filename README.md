@@ -38,13 +38,13 @@ School Summary (after Grade THS / Grade 9 was excluded)
 Due to the exclusion of the 9 grade students from the data analysis, the % passed for Maths, English and Overall increased from 66.9% to 93.1% , 69.6% to 97%, 65% to 90% respectively. Due to the marked improvement in passing %, the relative performance of THS has improved by quite a few notches. When the schools were ranked, THS shot up from 8th position to second position as depicted in the chart below. 
 However, the scores for either Maths or English have not changed
 
-**PUT SCREENSHOT of top 5 schools after grade 9 was exluded to show THS is in second position**
 
-###Top 5 schools
+
+### Top 5 schools
 
 ![](top_school.png?raw=true)
 
-###Bottom 5 schools
+### Bottom 5 schools
 
 ![](bottom_school.png?raw=true)
 
