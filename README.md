@@ -62,13 +62,14 @@ The scores for either Maths or English have not changed.
 
 THS has a spending / student of $638. Hence the bin for $630 - $644 would be impacted due to the exclusion of Grade 9 students from THS for the % passing. Since the all the 3 percentages (math passing, english passing & overall passing) have improved for THS after the change, the same percentages for Bin # $630 - $644 have also increased to 66.89%, 77.4% & 56.3% due to this change.
 
+ ![](spending_ranges.png?raw=true)
     
 #### Scores by school size
 
 The scores for either Maths or English have not changed.
 The scores of every school will remain the same including THS. THS is a middle sized school (between 1000 - 2000). Hence the scores for middle sized schools will not be impacted. However, the pass % of middle sized schools have increased due to the improved pass % rates of THS resulting from the exclusion of Grade 9 in THS.
 
-
+ ![](scores_school_size.png?raw=true)
 #### Scores by school type
 The scores for either Maths or English have not changed.
 
