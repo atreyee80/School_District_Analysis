@@ -80,3 +80,4 @@ However, due to changes in % pass rate of THS, the % passing of Charter Schools 
 2. The pass % for English have increased for the district
 3. The pass % for Overall have increased for the district
 4. There is no change in the scores for the district for either Maths or English
+
