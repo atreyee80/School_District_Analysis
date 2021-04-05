@@ -43,7 +43,7 @@ However, the scores for either Maths or English have not changed
 
 ### How does replacing the ninth-grade scores affect the following:
 
-#### Math and reading scores by grade (done)
+#### Math and reading scores by grade 
 
 Grade wise scores of each school will NOT be impacted by this change. However the following changes have been observed:
 
