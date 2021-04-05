@@ -9,7 +9,7 @@ The purpose of this exercise is manifold, outlined as below:
 
 ## Results
 
-### How is the district summary affected? (done)
+### How is the district summary affected? 
 
 As seen from the pictures below, excluding the numbers for Thomas High (Grade 9) changes the overall passing percentage from 80% to 64.9% which is a decrease of 15 percentage points. The other metrics like scores have not change in any impactful manner.
 
@@ -22,7 +22,7 @@ District Summary (after Grade THS / Grade 9 was excluded)
 
 
  
-### How is the school summary affected? (done)
+### How is the school summary affected? 
 
 The metrics of all schools would remain unaffected due to the exclusion of THS / Grade 9. Only the metrics for THS (% passing) would be impacted 
 
