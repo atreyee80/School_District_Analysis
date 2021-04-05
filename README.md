@@ -11,7 +11,7 @@ The purpose of this exercise is manifold, outlined as below:
 
 ### How is the district summary affected? (done)
 
-As seen from the pictures below, excluding the numbers for Thomas High (Grade 9) changes the overall passing percentage from 80% to 64.9% which is a decrease of 15 percentage points. The other metrics do not change in any impactful manner.
+As seen from the pictures below, excluding the numbers for Thomas High (Grade 9) changes the overall passing percentage from 80% to 64.9% which is a decrease of 15 percentage points. The other metrics like scores have not change in any impactful manner.
 
 District Summary (before Grade THS / Grade 9 was excluded)
    ![](District_Before_changes.png?raw=true)
@@ -24,7 +24,7 @@ District Summary (after Grade THS / Grade 9 was excluded)
  
 ### How is the school summary affected? (done)
 
-The metrics of all schools would remain unaffected due to the exclusion of THS / Grade 9. Only the metrics for THS would be impacted 
+The metrics of all schools would remain unaffected due to the exclusion of THS / Grade 9. Only the metrics for THS (% passing) would be impacted 
 
 School Summary (before Grade THS / Grade 9 was excluded)
     ![](school_summary_before.png?raw=true)
@@ -35,7 +35,8 @@ School Summary (after Grade THS / Grade 9 was excluded)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? (done / screenshot pending)
 
-Due to the exclusion of the 9 grade students from the data analysis, the % passed for Maths, English and Overall increased from 66.9% to 93.1% , 69.6% to 97%, 65% to 90% respectively. Due to the marked improvement in passing %, the relative performance of THS has improved by quite a few notches. When the schools were ranked, THS shot up from 8th position to second position as depicted in the chart below
+Due to the exclusion of the 9 grade students from the data analysis, the % passed for Maths, English and Overall increased from 66.9% to 93.1% , 69.6% to 97%, 65% to 90% respectively. Due to the marked improvement in passing %, the relative performance of THS has improved by quite a few notches. When the schools were ranked, THS shot up from 8th position to second position as depicted in the chart below. 
+However, the scores for either Maths or English have not changed
 
 **PUT SCREENSHOT of top 5 schools after grade 9 was exluded to show THS is in second position**
 
@@ -47,7 +48,7 @@ Due to the exclusion of the 9 grade students from the data analysis, the % passe
 Grade wise scores of each school will NOT be impacted by this change. However the following changes have been observed:
 
 1. The Grade wise score for THS for Grade 9 is not available anymore
-2. The Average Grade score for Grade 9 for the school district have improved due to the exclusion of THS / Grade 9
+2. The Average pass % for Grade 9 for the school district have improved due to the exclusion of THS / Grade 9
 
 Grade wise Summary 
 
@@ -57,25 +58,20 @@ Grade wise Summary
 
 #### Scores by school spending (done)
 
-THS has a spending / student of $638. Hence the bin for $630 - $644 would be impacted due to the exclusion of Grade 9 students from THS. Since the all the 3 percentages (math passing, english passing & overall passing) have improved for THS after the change, the same percentages for Bin # $630 - $644 have also increased to 66.89%, 77.4% & 56.3% due to this change
-    
-School Summary (after Grade THS / Grade 9 was excluded)
-    ![](Spending_after_changes.png?raw=true)
-    
-#### Scores by school size (pending)
+The scores for either Maths or English have not changed.
 
-School Summary (before Grade THS / Grade 9 was excluded)
-    ![](school_summary_before.png?raw=true)
-    
-School Summary (after Grade THS / Grade 9 was excluded)
-    ![](school_summary_after.png?raw=true)
-    
-#### Scores by school type  (pending)
+THS has a spending / student of $638. Hence the bin for $630 - $644 would be impacted due to the exclusion of Grade 9 students from THS for the % passing. Since the all the 3 percentages (math passing, english passing & overall passing) have improved for THS after the change, the same percentages for Bin # $630 - $644 have also increased to 66.89%, 77.4% & 56.3% due to this change.
 
-School Summary (before Grade THS / Grade 9 was excluded)
-    ![](school_summary_before.png?raw=true)
     
-School Summary (after Grade THS / Grade 9 was excluded)
-    ![](school_summary_after.png?raw=true)
+#### Scores by school size
+
+The scores for either Maths or English have not changed.
+The scores of every school will remain the same including THS. THS is a middle sized school (between 1000 - 2000). Hence the scores for middle sized schools will not be impacted. However, the pass % of middle sized schools have increased due to the improved pass % rates of THS resulting from the exclusion of Grade 9 in THS.
+
+
+#### Scores by school type
+The scores for either Maths or English have not changed.
+
+However, due to changes in % pass rate of THS, the % passing of Charter Schools have increased
 
 ## Summary  (pending)
