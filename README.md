@@ -56,7 +56,7 @@ Grade wise Summary
   
   
 
-#### Scores by school spending (done)
+#### Scores by school spending 
 
 The scores for either Maths or English have not changed.
 
