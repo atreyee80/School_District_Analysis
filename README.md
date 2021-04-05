@@ -39,7 +39,13 @@ Due to the exclusion of the 9 grade students from the data analysis, the % passe
 However, the scores for either Maths or English have not changed
 
 **PUT SCREENSHOT of top 5 schools after grade 9 was exluded to show THS is in second position**
+###Top 5 schools
 
+![](top_school.png?raw=true)
+
+###Bottom 5 schools
+
+![](bottom_school.png?raw=true)
 
 ### How does replacing the ninth-grade scores affect the following:
 
