@@ -74,6 +74,8 @@ The scores for either Maths or English have not changed.
 
 However, due to changes in % pass rate of THS, the % passing of Charter Schools have increased
 
+  ![](school_types.png?raw=true)
+
 ## Summary
 
 1. The pass % for Maths have increased for the district
